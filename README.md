@@ -2,11 +2,11 @@
   <a href="https://github.com/burkeazbill">
     <img 
         align="center" 
-        src="https://github-readme-stats.dev01d.vercel.app/api/top-langs/?username=burkeazbill&layout=compact&langs_count=9&hide=jinja,html,css,scss,swift,ruby"
+        src="https://github-readme-stats.dev01d.vercel.app/api/top-langs/?username=burkeazbill&layout=compact&langs_count=9&hide=jinja,html,css,scss,swift,ruby&theme=tokyonight"
     />
     <img 
         align="center" 
-        src="https://github-readme-stats.dev01d.vercel.app/api?username=burkeazbill&show_icons=true&count_private=true&hide=stars"
+        src="https://github-readme-stats.dev01d.vercel.app/api?username=burkeazbill&show_icons=true&count_private=true&hide=stars&theme=tokyonight"
     />
   </a>
 </p>
