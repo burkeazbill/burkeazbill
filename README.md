@@ -11,7 +11,7 @@
   </a>
 </p>
 <ul>
-  <li><a href="https://www.youtube.com/channel/UCa77P712yIo2h9XEoQvuDiQ" title="My YouTube">My YouTube</a></li>
+  <li><a href="https://www.youtube.com/DimensionQuest" title="My YouTube">My YouTube</a></li>
   <li><a href="https://dimensionquest.net" title="DimensionQuest - Burke's Blog">My Blog</a></li>
 </ul>
 <!--
